@@ -1,0 +1,8 @@
+body {
+    background-color: #00005c;
+    color: #ffffff;
+}
+
+.mainImage img {
+    border-radius: 50%;
+}
